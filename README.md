@@ -1,4 +1,4 @@
-## this-is-a-simple-caculator-project-
+## this-is-my first #a simple-caculator#-project-
 #### you can changing  two languages in this calculator. 1=> English 2=> English & japanese
 #### This programming does not end with one calculation, it keeps asking you always what do you want  to do next? 
 #### I think you can enjoy it....
