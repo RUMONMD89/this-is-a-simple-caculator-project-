@@ -1,5 +1,5 @@
 # ここは創造性教育ﾌﾟﾛｼﾞｪｸﾄⅠ・Ⅲ 1回目授業の提出課題 #
-## A simple-caculator#-project- ##
+## A simple-caculator#-project-- ##
 
 ### you can changing  two languages in this calculator. 1=> English 2=> English & japanese
 <img src="simple calculator project/execution result.png" width="500px">
